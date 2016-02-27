@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/cuore/Desktop/VHDL/HAMMING_ECC_ENCODER/ENCODER.xst" -ofn "C:/Users/cuore/Desktop/VHDL/HAMMING_ECC_ENCODER/ENCODER.syr" 
